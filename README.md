@@ -14,7 +14,7 @@ ShopEase is an e-commerce backend built with **Spring Boot**. It follows a micro
 
 - **Spring Boot**
 - **Eureka (Service Discovery)**
-- **H2 In memory database (can be changed)**
+- **H2 in-memory database (can be changed)**
 - **Feign Client**
 
 ## Setup
