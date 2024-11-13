@@ -2,7 +2,7 @@
 
 ## Overview
 
-ShopEase is an e-commerce backend built with **Spring Boot**. It follows a microservice architecture with services for **product management**, **cart handling**, and **order processing**. The project uses **MySQL** for data storage and **Eureka** for service discovery.
+ShopEase is an e-commerce backend built with **Spring Boot**. It follows a microservice architecture with services for **product management**, **cart handling**, and **order processing**. The project uses **H2** for data storage and **Eureka** for service discovery.
 
 ## Key Services
 
@@ -14,7 +14,7 @@ ShopEase is an e-commerce backend built with **Spring Boot**. It follows a micro
 
 - **Spring Boot**
 - **Eureka (Service Discovery)**
-- **MySQL**
+- **H2 In memory database (can be changed)**
 - **Feign Client**
 
 ## Setup
